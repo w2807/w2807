@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @w2807
 - 👀 I’m interested in CTF and writing code!
-- 🌱 I’m currently learning c code and CTF.
+- 🌱 I’m currently learning C, python and CTF.
 - 💞️ I’m looking to collaborate on CTF learning.
 - 📫 You can reach me by email:w2807090881@outlook.com or w2807090881@gmail.com.
 
